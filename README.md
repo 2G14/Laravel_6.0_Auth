@@ -32,3 +32,8 @@ $ npm run dev
 
 LaravelはBcryptとArgon2ハッシュを提供している.  
 設定方法は[Laravel 6.0 ハッシュ](https://readouble.com/laravel/6.0/ja/hashing.html)に記載されている.
+
+## コミットリンク
+
+email以外での認証, Usersテーブル以外での認証の二つを実装した際のコミットです.  
+[Administratorsテーブルのusernameによる認証](https://github.com/2G14/Laravel_6.0_Auth/commit/28a60f3d5f15cc31e49c0c6bb8b7a0e110a46edb)
