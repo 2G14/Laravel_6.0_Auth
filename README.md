@@ -5,4 +5,9 @@
 ```bash
 $ laravel new [app_name]
 $ cd [app_name]
+$ composer require laravel/ui
+$ php artisan ui vue --auth
+$ php artisan migrate
+$ npm install
+$ npm run dev
 ```
